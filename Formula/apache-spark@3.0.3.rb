@@ -4,7 +4,7 @@ class ApacheSparkAT246 < Formula
   url "https://www.apache.org/dyn/closer.lua?path=spark/spark-3.0.3/spark-3.0.3-bin-hadoop2.7.tgz"
   mirror "https://archive.apache.org/dist/spark/spark-3.0.3/spark-3.0.3-bin-hadoop2.7.tgz"
   version "3.0.3"
-  sha256 "65ac1e75dc468f53fc778cd2ce1ba3f21067aab8"
+  sha256 "acbea672e6065c912f7ce4af2bd29ce28614d71e5b917dbde15735922f5fe01f"
   head "https://github.com/apache/spark.git"
 
   bottle :unneeded
