@@ -2,7 +2,7 @@ class ApacheSparkAT246 < Formula
   desc "Engine for large-scale data processing"
   homepage "https://spark.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=spark/spark-3.0.3/spark-3.0.3-bin-hadoop2.7.tgz"
-  mirror "https://archive.apache.org/dist/spark/spark-3.0.3/spark-3.0.3-bin-hadoop2.7.tgz"
+  mirror "https://mirror.its.dal.ca/apache/spark/spark-3.0.3/spark-3.0.3-bin-hadoop2.7.tgz"
   version "3.0.3"
   sha256 "acbea672e6065c912f7ce4af2bd29ce28614d71e5b917dbde15735922f5fe01f"
   head "https://github.com/apache/spark.git"
